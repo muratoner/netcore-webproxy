@@ -1,0 +1,16 @@
+C:\Users\Live\Desktop\NetCoreWebProxy\bin\Debug\net5.0\NetCoreWebProxy.exe
+C:\Users\Live\Desktop\NetCoreWebProxy\bin\Debug\net5.0\NetCoreWebProxy.deps.json
+C:\Users\Live\Desktop\NetCoreWebProxy\bin\Debug\net5.0\NetCoreWebProxy.runtimeconfig.json
+C:\Users\Live\Desktop\NetCoreWebProxy\bin\Debug\net5.0\NetCoreWebProxy.runtimeconfig.dev.json
+C:\Users\Live\Desktop\NetCoreWebProxy\bin\Debug\net5.0\NetCoreWebProxy.dll
+C:\Users\Live\Desktop\NetCoreWebProxy\bin\Debug\net5.0\ref\NetCoreWebProxy.dll
+C:\Users\Live\Desktop\NetCoreWebProxy\bin\Debug\net5.0\NetCoreWebProxy.pdb
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.csprojAssemblyReference.cache
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.AssemblyInfoInputs.cache
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.AssemblyInfo.cs
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.csproj.CoreCompileInputs.cache
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.dll
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\ref\NetCoreWebProxy.dll
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.pdb
+C:\Users\Live\Desktop\NetCoreWebProxy\obj\Debug\net5.0\NetCoreWebProxy.genruntimeconfig.cache
